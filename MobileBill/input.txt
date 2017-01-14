@@ -1,0 +1,6 @@
+50 mins local call to ab
+100 local sms to abcd
+90 mins std call to xyz
+20 std sms to qwer
+20 mins ISD call to pokl
+20 ISD SMS to pokl
